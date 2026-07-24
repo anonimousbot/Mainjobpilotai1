@@ -1,0 +1,2 @@
+C:\Users\buthm\source\repos\JobPilotAiFrontend\JobPilotAiFrontend\obj\Debug\jobpilotaifrontend.esproj.CoreCompileInputs.cache
+C:\Users\buthm\source\repos\JobPilotAi_Backend\JobPilotAiFrontend\JobPilotAiFrontend\obj\Debug\jobpilotaifrontend.esproj.CoreCompileInputs.cache
